@@ -1,5 +1,6 @@
 .next/
 node_modules/
+.data/
 out/
 .DS_Store
 *.tsbuildinfo
